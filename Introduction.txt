@@ -6,4 +6,3 @@ Thanks for the update Sravanthi
 This is a change done in task1 branch.
 This change in task2 requries collaborator approval.
 This change is in task3 now requires approval.
-This change is for Cherry-pick command
