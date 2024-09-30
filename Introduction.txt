@@ -1,4 +1,4 @@
-Hi Welcome to Devops.
+THi Welcome to Devops.
 This is the line edited by Sravanthi
 This is a change by Lokesh
 Thanks for the update Lokesh
@@ -7,3 +7,4 @@ This is a change done in task1 branch.
 This change in task2 requries collaborator approval.
 This change is in task3 now requires approval.
 This change is for revert command
+This is a change done from Ubuntu VM
